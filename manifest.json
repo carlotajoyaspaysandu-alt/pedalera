@@ -1,8 +1,24 @@
 {
   "name": "Guitar FX Rack",
   "short_name": "GuitarFX",
+  "description": "Pedalera digital de efectos para guitarra en tiempo real",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#121212",
-  "theme_color": "#00ffcc"
+  "theme_color": "#00ffcc",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/121212/00ffcc.png?text=FX",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/121212/00ffcc.png?text=FX",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
