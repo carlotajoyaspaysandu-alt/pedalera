@@ -1,0 +1,8 @@
+{
+  "name": "Guitar FX Rack",
+  "short_name": "GuitarFX",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#00ffcc"
+}
